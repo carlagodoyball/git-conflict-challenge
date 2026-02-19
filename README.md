@@ -1,1 +1,1 @@
-# git-conflict-challenge - pas ok : ko
+# git-conflict-challenge - maintenant ok 
