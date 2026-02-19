@@ -1,1 +1,1 @@
-# git-conflict-challenge - maintenant ok 
+# Git Conflict Challenge - LOCAL VERSION
